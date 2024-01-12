@@ -1,1 +1,1 @@
-# PROJECT-ATTENDANCE-MARKING-USING-FACE-RECOGNITION
+# PROJECT-Real-time-Attendance-Marking-System-with-Automatic-Face-Recognition-using-TensorFlow-Lite
